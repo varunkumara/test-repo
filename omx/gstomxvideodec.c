@@ -89,6 +89,8 @@ enum
 
 /* class initialization */
 
+/* class initialization */
+
 #define DEBUG_INIT \
   GST_DEBUG_CATEGORY_INIT (gst_omx_video_dec_debug_category, "omxvideodec", 0, \
       "debug category for gst-omx video decoder base class");
