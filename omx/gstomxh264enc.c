@@ -32,7 +32,7 @@
 #endif
 
 GST_DEBUG_CATEGORY_STATIC (gst_omx_h264_enc_debug_category);
-#define GST_CAT_DEFAULT gst_omx_h264_enc_debug_category
+define GST_CAT_DEFAULT gst_omx_h264_enc_debug_category
 
 /* prototypes */
 static gboolean gst_omx_h264_enc_set_format (GstOMXVideoEnc * enc,
